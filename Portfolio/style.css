@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: 
+    margin-left: 20px;
+}
+h2{
+    color:brown
+}
+p{
+    font-size: small;
+}
+p1{
+    font-size: small;
+}
+.fast{
+    color: red;
+  }
+  .nice{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
